@@ -2,12 +2,13 @@
 ### A python script to scrape football data from [FBRef]
 ![Version](https://img.shields.io/pypi/v/fbrefstats?label=version) ![PyPI Downloads](https://img.shields.io/pypi/dm/fbrefstats) ![Python](https://img.shields.io/badge/python-3.6+-blue?logo=python&logoColor=yellow) ![License](https://img.shields.io/badge/license-GNU-red)
 
+## WARNING: The library is not currently being updated!
 
 ### Check out the documentation:
 - [On GitHub](https://github.com/mbrahimi25/fbrefstats/blob/main/DOCUMENTATION.md)
 - [Locally](DOCUMENTATION.md)
 
-
+## WARNING: The library is not currently being updated!
 
 ### About
 FBRef Stats is a Python script which uses *BeautifulSoup* and *requests* to scrape data from [FBRef].
